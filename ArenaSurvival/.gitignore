@@ -79,3 +79,9 @@ Release/
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+
+# VS Code
+.vscode/
+
+# Idea
+.idea/
